@@ -1,2 +1,2 @@
 # RiemannPotato
-Implementing the [https://hal.science/hal-00781701/document](Riemmanian Potato algorithm) with PTBXL data. 
+Implementing the [Riemmanian Potato algorithm](https://hal.science/hal-00781701/document) with PTBXL data. 
